@@ -56,7 +56,7 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 ### 2023
 
-- 2023-10-11 - Add files to the repository [#1](https://github.com/jpcmf/tag-go/pull/1) _(v0.1.0)_
+- 2023-10-11 - Add files to the repository [#1](https://github.com/jpcmf/Backend-GraduateProgram-FullStack-2023/pull/1) _(v0.1.0)_
 
 ---
 
