@@ -52,6 +52,12 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 - [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
 - [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
 
+## 🗒 Changelog
+
+### 2023
+
+- 2023-10-11 - Add files to the repository [#1](https://github.com/jpcmf/tag-go/pull/1) _(v0.1.0)_
+
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
