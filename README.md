@@ -3,7 +3,7 @@
 <p align="center">
   <a href="#gear-build-setup">Build setup</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="#memo-changelog">Changelog</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="#memo-changelog">Strapi documentation</a>
+  <a href="#rocket-strapi-documentation">Strapi documentation</a>
 </p>
 
 ## SkateHub Backend powered by Strapi
