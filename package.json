@@ -1,8 +1,8 @@
 {
   "name": "backend",
   "private": true,
-  "version": "0.1.1",
-  "description": "A Strapi application",
+  "version": "0.1.2",
+  "description": "SkateHub Backend powered by Strapi",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -17,7 +17,7 @@
     "mysql2": "^3.9.2"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "João Paulo Fricks"
   },
   "strapi": {
     "uuid": "9bd2ee77-6260-4d9e-a6ad-8df0e01a8e36"
