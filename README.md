@@ -98,8 +98,9 @@ Before you can start using Strapi as your backend, you need to create an admin u
 
 ### 2024
 
+- 2024-03-21 - Add `@strapi/provider-email-nodemailer` to handle with sending emails [#8](https://github.com/jpcmf/Backend-GraduateProgram-FullStack-2023/pull/8) _(v0.1.3)_
 - 2024-03-19 - Add a quick guide to getting started with the application [#5](https://github.com/jpcmf/Backend-GraduateProgram-FullStack-2023/pull/5) _(v0.1.2)_
-- 2024-03-17 - Add MySQL2 to handle with database [#4](https://github.com/jpcmf/Backend-GraduateProgram-FullStack-2023/pull/4) _(v0.1.1)_
+- 2024-03-17 - Add `mysql2` to handle with database [#4](https://github.com/jpcmf/Backend-GraduateProgram-FullStack-2023/pull/4) _(v0.1.1)_
 
 ### 2023
 
