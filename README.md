@@ -98,6 +98,7 @@ Before you can start using Strapi as your backend, you need to create an admin u
 
 ### 2024
 
+- 2024-03-25 - Add the `prettier.config.js` file to the projeto to handle with code formatter [#11](https://github.com/jpcmf/Backend-GraduateProgram-FullStack-2023/pull/11) _(v0.1.6)_
 - 2024-03-25 - Overwrite email confirmation method [#10](https://github.com/jpcmf/Backend-GraduateProgram-FullStack-2023/pull/10) _(v0.1.5)_
 - 2024-03-22 - Update default value of `blocked` attribute in user schema [#9](https://github.com/jpcmf/Backend-GraduateProgram-FullStack-2023/pull/9) _(v0.1.4)_
 - 2024-03-21 - Add `@strapi/provider-email-nodemailer` to handle with sending emails [#8](https://github.com/jpcmf/Backend-GraduateProgram-FullStack-2023/pull/8) _(v0.1.3)_

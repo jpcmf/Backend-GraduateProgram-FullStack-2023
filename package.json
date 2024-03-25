@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "private": true,
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "SkateHub Backend powered by Strapi",
   "scripts": {
     "develop": "strapi develop",
